@@ -1,1 +1,0 @@
-const myFreecodecamp = "https://www.freecodecamp.org/Vipavee"; 
