@@ -1,8 +1,7 @@
 # Weather-App
 
-A weather app that allows users to check the weather of any city by searching for it on the app’s search bar. 
-The app displays temperature, sunrise and sunset time, wind speed, cloudiness and location with a map. The data is fetched from the OpenWeatherMap API1. 
-You have also added some styling for the background image based on what city the user searches for. The image is fetched from  Unsplash API.
+This is a weather app that allows users to search for the weather of any city they want by entering the city name in the search bar. The app retrieves the temperature, sunrise and sunset time, wind speed, cloudiness, and location data by fetching the API from https://openweathermap.org/. 
+Additionally, the app features a background image relevant to the city that the user searches for, which is achieved by fetching the image from https://unsplash.com/.
 
 ## Technologies
 * HTML
