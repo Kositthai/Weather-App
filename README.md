@@ -9,3 +9,8 @@ You have also added some styling for the background image based on what city the
 * CSS 
 * Javascript
 * API 
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/94117213/234254479-257bd52e-06f8-4e3d-8d6c-9c878a475e36.png" alt="Weather App Image">
+</div>
